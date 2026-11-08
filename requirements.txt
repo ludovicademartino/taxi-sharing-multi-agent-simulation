@@ -1,0 +1,6 @@
+mesa[rec]==3.5.1
+seaborn
+matplotlib
+pandas
+ipyvuetify<2
+ipyvue<2
