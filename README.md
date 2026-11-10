@@ -133,5 +133,5 @@ passenger accepts, and that every passenger eventually leaves the city.
 
 ## Authors
 
-- Ludovica De Martino
+- Ludovica de Martino
 - Claudio Bendinelli
