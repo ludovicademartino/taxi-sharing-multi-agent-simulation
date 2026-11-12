@@ -1,4 +1,4 @@
-# Shared Taxis in the City: a Multi-Agent Simulation
+# Multi-Agent Simulation: Urban Mobility Policy
 
 Would shared taxis cut the kilometres driven in a city, and what would passengers
 pay for it in waiting time and detours? We answer with an **agent-based simulation
